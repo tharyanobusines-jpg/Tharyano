@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    padding: 40px;
+    background-color: #f0f2f5; /* Fundo cinza claro e moderno */
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff; /* Azul primário */
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #007bff;
+    font-size: 2.5em;
+}
+
+.language-section {
+    background-color: #ffffff; /* Fundo branco para o conteúdo */
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    border-left: 5px solid #28a745; /* Linha verde para destaque */
+}
+
+.language-section h2 {
+    color: #343a40; /* Cinza escuro para títulos */
+    font-size: 1.6em;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 0;
+}
